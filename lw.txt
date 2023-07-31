@@ -1,0 +1,6 @@
+lines breaks a string up into a list of
+strings at newline characters. The resulting
+strings do not contain newlines.
+unlines is an inverse operation to lines.
+It joins lines, after appending a terminating
+newline to each.
